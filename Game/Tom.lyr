@@ -1,0 +1,5 @@
+<ObjectLayer>
+ <Layer Name="Tom" GUID="{EED4A88A-298F-41DA-9C94-FDDB45970D0F}" FullName="Tom" External="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" Expanded="0" IsDefaultColor="1">
+  <LayerObjects />
+ </Layer>
+</ObjectLayer>

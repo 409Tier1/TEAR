@@ -1,0 +1,5 @@
+<ObjectLayer>
+ <Layer Name="Arran" GUID="{F53ACB5E-F897-4CFD-ACE4-CB632F80741E}" FullName="Arran" External="0" Exportable="1" ExportLayerPak="1" DefaultLoaded="0" HavePhysics="1" Expanded="0" IsDefaultColor="1">
+  <LayerObjects />
+ </Layer>
+</ObjectLayer>
